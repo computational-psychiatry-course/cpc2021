@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631944725718.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "64F06C3A",
+    "lastKnownWriteTime" : 1631942069,
+    "last_content_update" : 1631942069,
+    "path" : "~/Dropbox/Research/Conferences/2021_Computational_Psychiatry_Course/cpc2021/R_Codes/tutorial/1_test_stan.R",
+    "project_path" : "1_test_stan.R",
+    "properties" : {
+        "cursorPosition" : "39,22",
+        "scrollLine" : "12"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

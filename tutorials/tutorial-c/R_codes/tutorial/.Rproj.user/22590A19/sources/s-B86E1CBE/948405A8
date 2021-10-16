@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631952883274.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "948405A8",
+    "lastKnownWriteTime" : 1599909489,
+    "last_content_update" : 1599909489,
+    "path" : "~/Dropbox/Research/Conferences/2021_Computational_Psychiatry_Course/cpc2021/R_Codes/tutorial/5_gng_models.R",
+    "project_path" : "5_gng_models.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

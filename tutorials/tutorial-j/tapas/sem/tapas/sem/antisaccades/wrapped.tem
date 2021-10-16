@@ -1,0 +1,9 @@
+def p_{0:s}_model_{2:s}_{1:s}(
+        np.ndarray[np.float64_t, ndim=1, mode="c"] t,
+        np.ndarray[np.float64_t, ndim=1, mode="c"] a,
+        np.ndarray[np.float64_t, ndim=1, mode="c"] u,
+        np.ndarray[np.float64_t, ndim=1, mode="c"] theta):
+ 
+    return wrapper_{0:s}_model_{2:s}(reparametrize_{0:s}_{1:s},
+        {0:s}_llh_{1:s}, t, a, u, theta)
+
