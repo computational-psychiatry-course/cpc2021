@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1631952880844.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA550530",
+    "lastKnownWriteTime" : 1631955735,
+    "last_content_update" : 1631955735527,
+    "path" : "~/Dropbox/Research/Conferences/2021_Computational_Psychiatry_Course/cpc2021/R_Codes/tutorial/2_help_files.R",
+    "project_path" : "2_help_files.R",
+    "properties" : {
+        "cursorPosition" : "10,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
