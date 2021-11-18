@@ -71,7 +71,7 @@ In this tutorial, we will recap the theory underlying the hMeta-d model for quan
 The full material used in this tutorial can be found in the `tutorial-i` folder.
 
 
-## 💻 Practical Session J with Stefan Frässle - Advanced Models of Connectivity: rDCM using Tapas rDCM
+## 💻 Practical Session J with Stefan Frässle & Inês Pereira - Advanced Models of Connectivity: rDCM using Tapas rDCM
 #### Description
 In this tutorial, you will learn how to use the regression dynamic causal modeling (rDCM) toolbox to perform effective (directed) connectivity analyses in whole-brain networks from functional magnetic resonance imaging (fMRI) data. We will provide you with the necessary theoretical background of the rDCM approach and detail practical aspects that are relevant for whole-brain connectivity analyses. After having laid the foundation, a hands-on part will allow you to obtain a better feeling for the behavior of the model as well as provide you with in-depth experience on how to apply the model to empirical fMRI data. The goal of this tutorial is to familiarize you with the theoretical and practical aspects of rDCM, which will allow you to seamlessly integrate the approach into your own research. We will provide clear instructions on how to perform the analyses. However, experience with the analysis of fMRI data (already some experience with classical DCM for fMRI would be ideal) as well as experience with MATLAB are beneficial.
 #### Material
