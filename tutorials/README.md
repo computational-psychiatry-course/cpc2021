@@ -4,7 +4,6 @@ The practical tutorials on the sixth day provide small-group, in-depth and hands
 
 ## 💻 Practical Session A with Tore Erdmann, Alexander Hess & Lilian Weber - Bayesian Learning using the Hierarchical Gaussian Filter (HGF, TNU Tapas)
 #### Description
-Bayesian Learning using the Hierarchical Gaussian Filter (HGF, TNU Tapas)
 In this tutorial, we will recap the theory behind the Hierarchical Gaussian Filter (HGF) and introduce the model in an accessible way. We will then discuss practical issues when fitting computational models to behavioral data in general and specific to the HGF. We will work through exercises to learn how to analyze data with the HGF using the HGF-toolbox (in Matlab).
 #### Material
 The full material used in this tutorial can be found [here](https://github.com/toreerdmann/HGF-workshop).
