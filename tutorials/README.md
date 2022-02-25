@@ -39,9 +39,8 @@ This hands-on tutorial is a crash course on practical computational modelling. Y
 The full material used in this tutorial can be found in the `tutorial-e` folder.
 
 
-## 💻 Practical Session F with Thomas Wolfers & Saige Rutherford
+## 💻 Practical Session F with Thomas Wolfers & Saige Rutherford - Machine Learning using the PCNtoolkit
 #### Description
-Machine Learning using the PCNtoolkit
 Would you like to learn more about modeling individual differences and heterogeneity in psychiatry? In this tutorial, we will abandon the classical patient vs. healthy control framework. You will be guided through how to run an analysis using normative modeling implemented in the [PCNtoolkit](https://github.com/amarquand/PCNtoolkit/wiki/Normative-Modelling).
 #### Material
 The full material used in this tutorial can be found [here](https://github.com/saigerutherford/CPC_ML_tutorial).
@@ -62,9 +61,9 @@ We will provide a point-by-point recipe on how to perform the analysis. However,
 The full material used in this tutorial can be found in the `tutorial-h` folder.
 
 
-## 💻 Practical Session I with Marion Rouault & Ashraya Indrakanti
+## 💻 Practical Session I with Marion Rouault & Ashraya Indrakanti - Metacognition using the hMeta-d Toolbox
+
 #### Description
-Metacognition using the hMeta-d Toolbox
 In this tutorial, we will recap the theory underlying the hMeta-d model for quantifying metacognitive efficiency, our ability to monitor and evaluate our own decisions. We will introduce the model in an accessible way, then discuss practical issues when fitting computational models to behavioral data and go through code examples using the hMeta-d toolbox.
 #### Material
 The full material used in this tutorial can be found in the `tutorial-i` folder.
