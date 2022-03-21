@@ -12,9 +12,7 @@ The full material used in this tutorial can be found [here](https://github.com/t
 ## 💻 Practical Session B with Conor Heins & Daphne Demekas - Active Inference using the PYMDP Toolbox
 #### Description
 This tutorial provides a practical guide on developing computational models using `pymdp`, a Python package for solving partially-observed Markov Decision Processes (POMDPs) with Active Inference. Students will build simple simulations in interactive, cloud-hosted Python notebooks (Google Colab). We aim to help students build generative models for POMDPs and to develop a conceptual understanding of the theoretical principles behind active inference, without requiring detailed technical knowledge.
-Practical Session C with Woo-Young Ahn, Mina Kwon & Hoyoung Doh
-Reinforcement Learning using the hBayesDM Package
-In this tutorial, participants will learn how to use a Bayesian package called hBayesDM for modeling various reinforcement learning and decision making (RLDM) tasks. A short overview of (hierarchical) Bayesian modeling will be also provided. Participants will also learn important steps and issues to check when reporting modeling results in publications.
+
 #### Material
 The full material used in this tutorial can be found in the `tutorial-b` folder, as well as [here (Part I)](https://colab.research.google.com/drive/1e7ED4F_GtpxmbK6RaaI65LxqfEqsE0RD?usp=sharing#scrollTo=JLPPVtrysl41) and [here (Part II)](https://colab.research.google.com/drive/1et8-nitvAjaweMax51E5iNGhsQVfagsr?usp=sharing).
 
