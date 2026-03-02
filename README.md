@@ -4,7 +4,7 @@ This repository contains the slides used in the CPC Zurich 2021, which took plac
 
 ## Main course 🎙
 
-The slides of main course lectures can be found under `main-course`.
+Main course slides are no longer stored in this repository.
 
 ## Tutorials 💻
 
